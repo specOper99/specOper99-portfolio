@@ -124,7 +124,7 @@ const formatTime = (timezone) => {
       timeZone: timezone,
     })
     return formatter.format(new Date())
-  } catch (err) {
+  } catch {
     return 'local time'
   }
 }

@@ -36,3 +36,30 @@ npm run lint       # optional code quality pass
 - `public/`: Static assets served as-is.
 
 Feel free to iterate on the motion language, add Three.js canvases, or wire the data objects to a CMS if you need live editing. This repo focuses on providing a bold, opinionated baseline you can extend quickly.
+
+### Deployment
+
+This portfolio is ready to deploy to popular cloud platforms:
+
+#### Deploy to Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/specOper99/specOper99-portfolio)
+
+1. Click the button above or visit [Vercel](https://vercel.com)
+2. Import your repository
+3. Vercel will automatically detect the framework and use the `vercel.json` configuration
+4. Deploy!
+
+#### Deploy to Netlify
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/specOper99/specOper99-portfolio)
+
+1. Click the button above or visit [Netlify](https://netlify.com)
+2. Import your repository
+3. Netlify will use the `netlify.toml` configuration for build settings
+4. Deploy!
+
+Both platforms offer:
+- Automatic builds from your Git repository
+- Custom domain support
+- Free SSL certificates
+- Global CDN distribution
+- Preview deployments for pull requests
