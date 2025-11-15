@@ -3,9 +3,9 @@
 A cinematic, non-linear portfolio experience built with React and Vite. The layout blends ambient gradients, floating navigation, and story-driven sections inspired by boutique creative studios.
 
 ### Highlights
-- Hero scene with live location time, floating stats, and custom cursor glow for instant personality
-- Timeline, portfolio grid, and ritual cards fed by structured data inside `src/App.jsx`
-- Sticky vertical navigation powered by `IntersectionObserver` for smooth section wayfinding
+- Hero scene with live location time, floating stats, cursor glow, and a pointer-reactive orb for instant personality
+- Interactive timeline spotlight, portfolio tilt cards, and ritual grid all powered by structured data inside `src/App.jsx`
+- Floating navigation rail with scroll progress, backdrop blur, and section-aware highlighting for confident wayfinding
 - Fully responsive design with glassmorphism surfaces, noise overlays, and scroll-triggered ambience
 
 ### Quick start
